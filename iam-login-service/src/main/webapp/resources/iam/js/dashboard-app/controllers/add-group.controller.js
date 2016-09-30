@@ -19,7 +19,7 @@ function AddGroupController($scope, $rootScope, $uibModalInstance, Utils, scimFa
 
 		addGroupCtrl.group.id = "";
 		addGroupCtrl.group.displayName = "";
-		addGroupCtrl.enableAdd = true;
+		addGroupCtrl.enabled = true;
 
 	}
 
